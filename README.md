@@ -1,7 +1,7 @@
 # Sousa Dev
 
-<a href="https://www.linkedin.com/in/henrique-sousa-95bb03146/"><img src="https://img.shields.io/badge/Henrique Sousa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-<a href="https://www.patreon.com/sousadev"><img src="https://img.shields.io/badge/Game & Software Development-critical.svg?&style=for-the-badge&logo=patreon&logoColor=white" ></a>
+<a href="https://www.linkedin.com/in/henrique-sousa-95bb03146/" target="_blank"><img src="https://img.shields.io/badge/Henrique Sousa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="https://www.patreon.com/sousadev" target="_blank"><img src="https://img.shields.io/badge/Game & Software Development-critical.svg?&style=for-the-badge&logo=patreon&logoColor=white" ></a>
 
 
 
