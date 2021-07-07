@@ -6,7 +6,6 @@
 
 
 <a href="https://github.com/sousaUA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sousaUA&theme=tokyonight&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousaUA&theme=tokyonight&layout=compact" />
 </a>
 
