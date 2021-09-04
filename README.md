@@ -9,3 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousaUA&theme=tokyonight&layout=compact" />
 </a>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/sousadev?label=Follow)](https://twitter.com/sousadev)
+![Profile views](https://gpvc.arturio.dev/sousaua)
+
